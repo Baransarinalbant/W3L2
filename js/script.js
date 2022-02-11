@@ -45,8 +45,6 @@ function getData(XMLcode) {
 	subjectInfoElem.innerHTML = HTMLcode;	// Skriver ut texten i rätt plats
 } // End getData
 
-
-
 // ----- Meny 2 -----
 
 // Avläs menyn för val av ämne för kurser
